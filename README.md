@@ -6,10 +6,6 @@
   <span style="line-height:0.7];">From Nepal 🇳🇵</span>
 </h3>
 
-
-<img align="right" alt="Coding" width="250" src="https://github.com/user-attachments/assets/6e0ced5d-f846-4c3c-8199-610f8480fd71">
-
-
 )
 
 
