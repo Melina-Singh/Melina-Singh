@@ -2,12 +2,16 @@
 
 <h1 align="center">Hi 👋, I'm Melina Singh</h1>
 <h3 align="center">
-  Advancing AI through Practical Experience in Machine Learning and Deep Learning<br>
+  Learning AI through Practical Experience in Machine Learning and Deep Learning<br>
   <span style="line-height:0.7];">From Nepal 🇳🇵</span>
 </h3>
 
 
-<img align="right" alt="Coding" with="400" src= "https://tenor.com/view/new-game-ahagon-umiko-programming-work-working-at-work-gif-13247664"
+<img align="right" alt="Coding" width="250" src="https://github.com/user-attachments/assets/6e0ced5d-f846-4c3c-8199-610f8480fd71">
+
+
+)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=melina-singh&label=Profile%20views&color=0e75b6&style=flat" alt="melina-singh" /> </p>
 
