@@ -1,6 +1,12 @@
-![Welcome to My GitHub]()
+![Welcome to My GitHub](https://github.com/user-attachments/assets/95a0c309-adcc-4dd3-836c-ca47e1ecc891)
+
 <h1 align="center">Hi 👋, I'm Melina Singh</h1>
-<h3 align="center">AI student with hands-on experience in Machine Learning and Deep Learning.</h3>
+<h3 align="center">
+  Advancing AI through Practical Experience in Machine Learning and Deep Learning<br>
+  <span style="line-height:0.7];">From Nepal 🇳🇵</span>
+</h3>
+
+
 <img align="right" alt="Coding" with="400" src= "https://tenor.com/view/new-game-ahagon-umiko-programming-work-working-at-work-gif-13247664"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=melina-singh&label=Profile%20views&color=0e75b6&style=flat" alt="melina-singh" /> </p>
