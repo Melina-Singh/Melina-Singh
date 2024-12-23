@@ -8,7 +8,6 @@
 
 )
 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=melina-singh&label=Profile%20views&color=0e75b6&style=flat" alt="melina-singh" /> </p>
 
 - 🌱 I’m currently learning **MLOPs**
@@ -31,5 +30,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=melina-singh&show_icons=true&locale=en" alt="melina-singh" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=melina-singh" alt="melina-singh" /></p>
-
 
