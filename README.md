@@ -33,7 +33,7 @@
 
 <p>
   <img align="left" 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=melina-singh&show_icons=true&locale=en&layout=compact&cache_seconds=0" 
+       src="https://github-readme-stats.vercel.app/api?username=melina-singh&show_icons=true&locale=en&cache_seconds=0" 
        alt="melina-singh" />
 </p>
 
