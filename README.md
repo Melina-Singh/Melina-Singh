@@ -6,7 +6,6 @@
   <span style="line-height:0.7];">From Nepal 🇳🇵</span>
 </h3>
 
-)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=melina-singh&label=Profile%20views&color=0e75b6&style=flat" alt="melina-singh" /> </p>
 
