@@ -30,11 +30,8 @@
        alt="melina-singh" />
 </p>
 
-<p>
-  <img align="left" 
-       src="https://github-readme-stats.vercel.app/api?username=melina-singh&show_icons=true&locale=en&cache_seconds=0" 
-       alt="melina-singh" />
-</p>
+
+[![Melina's GitHub stats](https://github-readme-stats.vercel.app/api?username=melina-singh)](https://github.com/melina-singh/github-readme-stats)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=melina-singh)
 
