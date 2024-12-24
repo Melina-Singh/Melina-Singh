@@ -31,9 +31,11 @@
        alt="melina-singh" />
 </p>
 
-
-![Melina's GitHub stats](https://github-readme-stats.vercel.app/api?username=melina-singh&show_icons=true&locale=en&cache_seconds=0)
-
+<p>
+  <img align="left" 
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=melina-singh&show_icons=true&locale=en&layout=compact&cache_seconds=0" 
+       alt="melina-singh" />
+</p>
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=melina-singh)
 
