@@ -1,7 +1,7 @@
 ![Welcome to My GitHub](https://github.com/user-attachments/assets/95a0c309-adcc-4dd3-836c-ca47e1ecc891)
 
 <h1 align="center">Hi 👋, I'm Melina Singh</h1>
-<h3 align="center">
+<h3 align="center"> 
   Learning AI through Practical Experience in Machine Learning and Deep Learning<br>
   <span style="line-height:0.7];">From Nepal 🇳🇵</span>
 </h3>
