@@ -26,15 +26,13 @@
 
 
 
-<p>
-  <img align="left" 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=melina-singh&show_icons=true&locale=en&layout=compact&cache_seconds=0" 
-       alt="melina-singh" />
-</p>
+<img align="left" 
+     src="https://github-readme-stats.vercel.app/api/top-langs/?username=melina-singh&show_icons=true&locale=en&layout=compact&cache_seconds=0&cache_seconds=3600" 
+     alt="Top Languages by melina-singh" />
 
 
+ 
+[![Melina's GitHub stats](https://github-readme-stats.vercel.app/api?username=melina-singh&show_icons=true&theme=radical&cache_seconds=0)](https://github.com/melina-singh/github-readme-stats&show_icons=true&cache_seconds=0)
 
-[![Melina's GitHub stats](https://github-readme-stats.vercel.app/api?username=melina-singh&show_icons=true&theme=radical)](https://github.com/melina-singh/github-readme-stats&show_icons=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=melina-singh)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=melina-singh&cache_seconds=0)
 
