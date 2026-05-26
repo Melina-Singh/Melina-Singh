@@ -5,8 +5,8 @@
 <h1 align="center">Hi 👋, I'm Melina Singh</h1>
 
 <h3 align="center"> 
-  BTech AI Graduate | AI & Machine Learning Enthusiast | GIS & Surveying Explorer <br>
-  Passionate about Machine Learning, Deep Learning, Computer Vision & Geospatial Technologies <br>
+BTech AI Graduate | Machine Learning Engineer | NLP & LLM Enthusiast | GIS & Surveying Explorer <br>
+Focused on building AI systems using Deep Learning, Computer Vision, Natural Language Processing, and Large Language Models <br>
   <span style="line-height:0.7];">From Nepal 🇳🇵</span> 
 </h3>
 
