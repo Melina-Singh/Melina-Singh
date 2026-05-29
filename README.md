@@ -128,25 +128,6 @@ Focused on building AI systems using Deep Learning, Computer Vision, Natural Lan
 
 ---
 
-## 🗺️ GIS & Surveying Skills
-- GIS Mapping & Spatial Analysis
-- Survey Data Processing
-- Geospatial Data Visualization
-- Field Survey Techniques
-- QGIS / ArcGIS
-
----
-
-## 🚀 Areas of Interest
-- Artificial Intelligence
-- Machine Learning & Deep Learning
-- Computer Vision
-- MLOps
-- Geospatial Technologies
-- Cloud AI Applications
-
----
-
 ## 💡 Quote
 
-> "Turning intelligent ideas into impactful AI and geospatial solutions."
+> "Learning" 
