@@ -147,16 +147,6 @@ Focused on building AI systems using Deep Learning, Computer Vision, Natural Lan
 
 ---
 
-<img align="left" 
-     src="https://github-readme-stats.vercel.app/api/top-langs/?username=melina-singh&show_icons=true&locale=en&layout=compact&cache_seconds=0&cache_seconds=3600" 
-     alt="Top Languages by melina-singh" />
- 
-[![Melina's GitHub stats](https://github-readme-stats.vercel.app/api?username=melina-singh&show_icons=true&theme=radical)](https://github.com/melina-singh/github-readme-stats&show_icons=true&cache_seconds=0&cache_seconds=0)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=melina-singh&cache_seconds=0&cache_seconds=0)
-
----
-
 ## 💡 Quote
 
 > "Turning intelligent ideas into impactful AI and geospatial solutions."
