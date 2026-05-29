@@ -40,9 +40,6 @@ Focused on building AI systems using Deep Learning, Computer Vision, Natural Lan
 
 ---
 
-
----
-
 ## 💡 Quote
 
 > "Learning" 
