@@ -20,7 +20,6 @@ Focused on building AI systems using Deep Learning, Computer Vision, Natural Lan
 
 - 🎓 Completed **BTech in Artificial Intelligence & Diploma in Geomatics Engineering**
 - 💬 Ask me about **Python, Machine Learning, Large Language Models, Deep Learning**
-- 🗺️ Interested in **Geospatial Technologies, Climate Change**
 - 📫 How to reach me: **melinacingh@gmail.com**
 
 ---
